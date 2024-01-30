@@ -1,2 +1,2 @@
 # uconn-first-day
-example repository
+### example repository
